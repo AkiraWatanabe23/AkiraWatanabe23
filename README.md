@@ -10,4 +10,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkiraWatanabe23&count_private=true&show_icons=true&locale=en&layout=compact" alt="AkiraWatanabe23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkiraWatanabe23&count_private=true&show_icons=true&locale=en" alt="AkiraWatanabe23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkiraWatanabe23&" alt="AkiraWatanabe23" /></p>
